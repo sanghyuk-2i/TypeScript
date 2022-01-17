@@ -42,5 +42,3 @@ stack.push('cucumber 3');
 while(stack.size !== 0){
     console.log(stack.pop());
 }
-
-Array
